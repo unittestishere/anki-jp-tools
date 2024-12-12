@@ -1,0 +1,15 @@
+# Ignore text files
+*.env
+*.json
+
+*.txt
+*.html
+*.tsv
+*.env
+*.ass
+*.srt
+*.log
+
+# Ignore images
+*.png
+*.jpg
